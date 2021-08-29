@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Lk91111/Lk91111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently working on ... Personal projects
+- 🌱 I’m currently learning ... Flutter
+- 👯 I’m looking to collaborate on ... GitHub
+- 🤔 I’m looking for help with ... App development
+- 💬 Ask me about ... Condeigniter
+- 📫 How to reach me: ... laxmikant91111@gmail.com
+- 😄 Pronouns: ... lk
+- ⚡ Fun fact: ... Works on time and go to sleep early
+
